@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gabrielleon31/M6-UF3-PF_Gabriel_Leon.git/static/css/main.a9ddab40.css",
+    "main.js": "/gabrielleon31/M6-UF3-PF_Gabriel_Leon.git/static/js/main.c759ccc4.js",
+    "static/js/453.319546cb.chunk.js": "/gabrielleon31/M6-UF3-PF_Gabriel_Leon.git/static/js/453.319546cb.chunk.js",
+    "index.html": "/gabrielleon31/M6-UF3-PF_Gabriel_Leon.git/index.html",
+    "main.a9ddab40.css.map": "/gabrielleon31/M6-UF3-PF_Gabriel_Leon.git/static/css/main.a9ddab40.css.map",
+    "main.c759ccc4.js.map": "/gabrielleon31/M6-UF3-PF_Gabriel_Leon.git/static/js/main.c759ccc4.js.map",
+    "453.319546cb.chunk.js.map": "/gabrielleon31/M6-UF3-PF_Gabriel_Leon.git/static/js/453.319546cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9ddab40.css",
+    "static/js/main.c759ccc4.js"
+  ]
+}
