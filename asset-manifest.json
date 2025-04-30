@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/gabrielleon31/M6-UF3-PF_Gabriel_Leon.git/static/css/main.a9ddab40.css",
-    "main.js": "/gabrielleon31/M6-UF3-PF_Gabriel_Leon.git/static/js/main.c759ccc4.js",
-    "static/js/453.319546cb.chunk.js": "/gabrielleon31/M6-UF3-PF_Gabriel_Leon.git/static/js/453.319546cb.chunk.js",
-    "index.html": "/gabrielleon31/M6-UF3-PF_Gabriel_Leon.git/index.html",
-    "main.a9ddab40.css.map": "/gabrielleon31/M6-UF3-PF_Gabriel_Leon.git/static/css/main.a9ddab40.css.map",
-    "main.c759ccc4.js.map": "/gabrielleon31/M6-UF3-PF_Gabriel_Leon.git/static/js/main.c759ccc4.js.map",
-    "453.319546cb.chunk.js.map": "/gabrielleon31/M6-UF3-PF_Gabriel_Leon.git/static/js/453.319546cb.chunk.js.map"
+    "main.css": "/M6-UF3-PF_Gabriel_Leon/static/css/main.a9ddab40.css",
+    "main.js": "/M6-UF3-PF_Gabriel_Leon/static/js/main.2e9c762f.js",
+    "static/js/453.319546cb.chunk.js": "/M6-UF3-PF_Gabriel_Leon/static/js/453.319546cb.chunk.js",
+    "index.html": "/M6-UF3-PF_Gabriel_Leon/index.html",
+    "main.a9ddab40.css.map": "/M6-UF3-PF_Gabriel_Leon/static/css/main.a9ddab40.css.map",
+    "main.2e9c762f.js.map": "/M6-UF3-PF_Gabriel_Leon/static/js/main.2e9c762f.js.map",
+    "453.319546cb.chunk.js.map": "/M6-UF3-PF_Gabriel_Leon/static/js/453.319546cb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a9ddab40.css",
-    "static/js/main.c759ccc4.js"
+    "static/js/main.2e9c762f.js"
   ]
 }
